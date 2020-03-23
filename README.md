@@ -2,7 +2,7 @@
 
 안녕하세요 갓 국비학원을 졸업한 남자 포트폴리오 입니다.
 
-제가 진행한 프로젝트의 내용과 맡은 역할 위주로 설명을 드리며, 프로젝트 진행시 어려웠던 부분에 대해서만 설명드리겠습니다.
+제가 진행한 프로젝트의 내용과 맡은 역할 위주로 설명을 드리며, 프로젝트 진행시 어려웠던 부분에 대해서 설명드리겠습니다.
 
 일단 제가 맡은 역할은 회원 관리 시스템 및 공지사항 게시판 입니다.
 
@@ -17,25 +17,25 @@
 
 기술적 고려사항 : 
 
-■ Web Application Architecture  
-  – 2Layer / MVC 
-■ Front End  
-  – HTML5 / CSS3 / Bootstrap / javascript / jQuery / Ajax / FulCalendar / summernote/ Font Awesome / Google Font / sweet Alert  
-■ Back End 
-  – Java / Spring Framework / Mybatis / Apache / ApacheTomcat 
-■ DB / Tool  
-  – oracle / starUML / OvenApp.io / eclipse / GitHub / DBeaver  
-■ Open API  
-  –SNS로그인 : 네이버 / 카카오
-  –Naver Captcha
-  –SMS(문자서비스) : 청기와랩  
-  –Email : javaMail  
-  –주소 : 다음 주소 
-  –결제 : 아임포트  
+	■ Web Application Architecture  
+ 	 – 2Layer / MVC 
+	■ Front End  
+	  – HTML5 / CSS3 / Bootstrap / javascript / jQuery / Ajax / FulCalendar / summernote/ Font Awesome / Google Font / sweet Alert  
+	■ Back End 
+  	– Java / Spring Framework / Mybatis / Apache / ApacheTomcat 
+	■ DB / Tool  
+ 	 – oracle / starUML / OvenApp.io / eclipse / GitHub / DBeaver  
+	■ Open API  
+ 	 –SNS로그인 : 네이버 / 카카오
+  	–Naver Captcha
+  	–SMS(문자서비스) : 청기와랩  
+  	–Email : javaMail  
+  	–주소 : 다음 주소 
+  	–결제 : 아임포트  
   
 업무 영역 :
- ■ 회원 관리 시스템
- ■ 공지사항 게시판
+ 	■ 회원 관리 시스템
+ 	■ 공지사항 게시판
  
  # 회원 관리 시스템
  1. 비회원, 일반회원, 크리에이터 회원, 관리자로 구분이 됩니다.
